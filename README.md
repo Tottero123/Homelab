@@ -1,7 +1,7 @@
 # Homelab
 In this page, I have created an overwiev of everything thats running (and not running) in my homelab.
 
-##Hardware
+## Hardware
 ### My Proxmox server
 As an primary server i run an ** Dell Optiplex 3060 mini **. This fits nicely in my 10 inch rack and has everything i need for running light tasks. I am planning to create a Proxmox cluster using 4 of these systems, but I am holding that project. The main reason being that in Finland one of these at a reasonable price (100€ is my base) is kind of hard to find and i would propably need a new rack for all of this.
 
